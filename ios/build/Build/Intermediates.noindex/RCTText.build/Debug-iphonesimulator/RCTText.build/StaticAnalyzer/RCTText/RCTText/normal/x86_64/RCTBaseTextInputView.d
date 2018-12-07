@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.m \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryView.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryViewContent.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
+  /Users/jasongoncalves/Workspace/ReactNativeSandbox/react-native-albums/node_modules/react-native/Libraries/Text/TextInput/RCTTextSelection.h
